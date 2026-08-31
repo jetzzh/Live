@@ -9,7 +9,7 @@
     {
       "name": "黄果短剧",
       "type": 3,
-      "api": "huangguo",
+      "api": "csp_huangguo",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/huangguo.js"
     },
     {
